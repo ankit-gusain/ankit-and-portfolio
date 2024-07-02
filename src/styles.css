@@ -14,11 +14,14 @@ body {
   width: 100%;
 }
 
+
 div#main {
   display: flex;
   flex-direction: column;
   width: 100vw;
-}
+  width: 400px;
+
+} 
 
 section {
   position: relative;
@@ -42,7 +45,7 @@ section img.background {
   top: 0;
   transform: translate(-50%, 0);
   width: 100vmax;
-  z-index: -1;
+  z-index: -1; 
 }
 
 h1 {
