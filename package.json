@@ -1,7 +1,7 @@
 {
-  "name": "educator-js-codespace-template",
+  "name": "personal-portfolio-website",
   "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "description": " this contains the details of my portfolio and about myself",
   "source": "src/index.html",
   "homepage": "https://ankit-gusain.github.io/ankit-and-portfolio",
   "scripts": {
