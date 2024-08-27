@@ -32,9 +32,11 @@ const imageAltText = " laptop";
  */
 const projectList = [
   {
-    title: " Automated teller Machine simulator 🎉",
+    title: " Banking Management System 🎉",
     description:
       "Automated teller Machine simulator is a sysyem that helps the user to contract and carryout the seamless transactions",
+    url: "https://github.com/ankit-gusain/banking-management-system",
+
   },
   {
     title: " Best projects for JavaScript Foundation",

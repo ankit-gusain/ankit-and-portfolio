@@ -7,8 +7,6 @@
 
 import React from "react";
 import arrowSvg from "../images/down-arrow.svg";
-import PropTypes from "prop-types";
-
 /**
  * Home background image
  *
@@ -40,15 +38,5 @@ const Home = ({ name, title }) => {
     </section>
   );
 };
-
-Home.defaultProps = {
-  name: "",
-  title: "",
-};
-
-Home.propTypes = {
-  name: PropTypes.string.isRequired,
-  title: PropTypes.string.isRequired,
-};
-
+ 
 export default Home;

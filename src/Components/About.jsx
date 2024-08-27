@@ -17,7 +17,6 @@ import React from "react";
  * freely use on your site.
  */
 import image from "../images/background.jpeg";
-import { isCompositeComponentWithType } from "react-dom/test-utils";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -31,12 +30,7 @@ const description =
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
-const skillsList = [
-  "Web designing",
-  "Front-end",
-  "Problem Solving",
-  "Content Writing",
-  "Management",
+const skillsList = [ 
 ];
 
 /**
